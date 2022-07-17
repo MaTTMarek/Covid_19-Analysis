@@ -1,4 +1,4 @@
-{Covid_19 Analysis
+Covid_19 Analysis element {
   font-size: 75;
 }
 
