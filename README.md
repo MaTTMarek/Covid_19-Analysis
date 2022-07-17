@@ -15,11 +15,9 @@ numbers could tell me about this pandemic, because you often heard a lot of fake
 was hard to distinguish truth from false.
 
 ## 4. Analysis conducted using Python:
-
-    Exploratory visual analysis
-    Geospatial analysis
-    Regression analysis
-    Cluster analysis
-    Time-series analysis
-
+Exploratory visual analysis
+Geospatial analysis
+Regression analysis
+Cluster analysis
+Time-series analysis
 
