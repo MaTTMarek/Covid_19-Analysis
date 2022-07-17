@@ -1,4 +1,6 @@
-Covid_19 Analysis
+Covid_19 Analysis{
+  font-size: 75;
+}
 
 1.Data Source and Collection 
 Found this date set on the Kaggle website. The document was produced by The University of Oxford and 
